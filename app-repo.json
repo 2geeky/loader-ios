@@ -14,6 +14,13 @@
       "category": "social",
       "versions": [
         {
+          "version": "317.0",
+          "date": "2026-03-01",
+          "size": 91115397,
+          "downloadURL": "https://github.com/2geeky/loader-ios/releases/download/v317.0/Unbound.ipa",
+          "localizedDescription": "Further improvements to overall system stability and other minor adjustments have been made to enhance the user experience."
+        },
+        {
           "version": "309.1",
           "date": "2025-12-29",
           "size": 96226450,
